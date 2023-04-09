@@ -1,5 +1,5 @@
 # Qt版本为5.6.3   该demo实现了随机三个坐标点 采用2阶最小二乘法 生成拟合曲线 
-注：
+注：poit2line.exe   为可执行文件
 void MainWindow::on_pushButton_2_clicked()
 {
             const int N = 2;#拟合的多项式的阶数，修改的话，同步修改str2
